@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272563499198",
+    "project_id": "aizen-a0ca2",
+    "storage_bucket": "aizen-a0ca2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272563499198:android:c15a2ae627d93d2454aeef",
+        "android_client_info": {
+          "package_name": "com.example.aizen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3SUQwb9AXwEyrT2-l8-BWXczWebPBC6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
